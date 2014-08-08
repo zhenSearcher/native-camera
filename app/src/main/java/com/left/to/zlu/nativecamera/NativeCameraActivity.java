@@ -12,7 +12,6 @@ import android.view.ViewGroup;
 import android.os.Build;
 
 
-
 public class NativeCameraActivity extends Activity {
 
     @Override

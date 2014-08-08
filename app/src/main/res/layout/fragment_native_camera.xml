@@ -19,8 +19,8 @@
         android:id="@+id/meta_data"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="metadata"
-        android:layout_alignParentBottom="true"/>
+        android:layout_alignParentBottom="true"
+        android:text="metadata" />
 </RelativeLayout>
 
 
